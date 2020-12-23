@@ -18,3 +18,4 @@ $json=json_encode($result);
 echo $json;
 // 写入文件
 //file_put_contents('test.json', $json);
+?>
