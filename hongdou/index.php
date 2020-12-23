@@ -7,5 +7,4 @@ $links=array(
         array("name"=>"清沫导航",    "urls"=>"http://www.qingdh3.com",),
         array("name"=>"火鸡导航",    "urls"=>"http://www.huo008.com",),
     ),
-    //自动连接放下边
 );
