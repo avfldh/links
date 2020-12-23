@@ -1,4 +1,3 @@
-<?php 
 $links=array(
     "top"=>array(
         array("name"=>"顶部导航",    "urls"=>"http://www.xxx.com" ,),
@@ -10,4 +9,3 @@ $links=array(
     ),
     //自动连接放下边
 );
-?>
